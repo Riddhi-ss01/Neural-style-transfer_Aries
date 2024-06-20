@@ -1,1 +1,1 @@
-# Neural style transfer_Aries
+# Neural style transfer
